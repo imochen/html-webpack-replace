@@ -1,0 +1,24 @@
+{
+  "name": "html-webpack-replace",
+  "version": "0.0.1",
+  "description": "A webpack plugin under `html-webpack-plugin` for replace HTML contents for webpack 4.0+",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/imochen/html-webpack-replace.git"
+  },
+  "keywords": [
+    "html-webpack-replace",
+    "html-webpack-plugin",
+    "webpack",
+    "html",
+    "replace",
+    "plugin"
+  ],
+  "author": "mochen <mochen.china@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/imochen/html-webpack-replace/issues"
+  },
+  "homepage": "https://github.com/imochen/html-webpack-replace#readme"
+}
